@@ -12,8 +12,8 @@ I will store files like:
 - personal ideas
 - documentation
 
-Then your embedding model turns everything into vectors.
-The LLM doesn’t have to “memorize” anything — it just retrieves the right chunks.
+Then a embedding model turns everything into vectors.
+The main model doesn’t have to “memorize” anything, it just retrieves the right chunks.
 This means I can tell me AI to remember whatever I want it to and use it for local knowledge. 
 
 ## YouTube Transcript
