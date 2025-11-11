@@ -32,3 +32,12 @@ It could help with:
 - data-cleaning code
 
 And even if it is incapable, I could always just use Google's Gemini CLI.
+
+## System Hardware
+I originally just wanted to play video games like Counter-Strike, Elden Ring or ULTRAKILL. But I recently fell in love with running AI models locally, having no interest in AI before. So obviosuly my system is suited more for budget gaming instead of AI.
+I have a
+- Ryzen 5 5600 (6 cores 12 threads)
+- 16 GB DDR4 RAM
+- RX 6600 8GB
+
+Everything else is kinda arbitrary for running models so I will not talk about it. 
