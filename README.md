@@ -25,6 +25,11 @@ I also want to use Voxtral 3B to be able to transcribe YouTube videos and turn t
 ## Anime Wiki
 I would basically feed it a bunch of parsed wiki files or wiki dumps from those specific anime fandoms. So if I ever wanted to ask an anime specific question and it (mostly probably) wouldn't know, it would infer from my VectorDB for info.
 
+This means I would have to:
+- Parse anime wiki files
+- Find anime wiki dumps
+- Load an embedding model to turn my files into a vector database that the main model could infer from
+
 ## Code assistant
 Apperantly, despite being only 7 billion parameters big (which isn't big at all by 2025 standards), it can do well with code. So I will use it to assist me in coding. 
 It could help with:
