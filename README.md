@@ -22,6 +22,9 @@ I also want to use Voxtral 3B to be able to transcribe YouTube videos and turn t
 2. Turn the transcript into a prompt along with a extra "Make notes from the transcibes of this video"
 3. Generate a `.pdf` file summarizing the video (Using Mistral 7B)
 
+## Anime Wiki
+I would basically feed it a bunch of parsed wiki files or wiki dumps from those specific anime fandoms. So if I ever wanted to ask an anime specific question and it (mostly probably) wouldn't know, it would infer from my VectorDB for info.
+
 ## Code assistant
 Apperantly, despite being only 7 billion parameters big (which isn't big at all by 2025 standards), it can do well with code. So I will use it to assist me in coding. 
 It could help with:
