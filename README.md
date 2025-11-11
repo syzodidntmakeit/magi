@@ -1,7 +1,8 @@
-# MAGi
+# 🧠 MAGi
 Mistral Augmented General intelligence using a local Mistral 7B parameter model and embedding models and lots of files turned into a vector database. 
 
-**RAG = Retrieval-Augmented Generation**
+## RAG
+Retrieval-Augmented Generation
 
 I will store files like:
 - lecture notes
